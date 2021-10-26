@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://mehmetduran932.github.io/csb-rujec/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mehmetduran932.github.io/csb-rujec/static/js/main.0b3e1d87.chunk.js",
+    "main.js.map": "https://mehmetduran932.github.io/csb-rujec/static/js/main.0b3e1d87.chunk.js.map",
+    "runtime-main.js": "https://mehmetduran932.github.io/csb-rujec/static/js/runtime-main.b96bd505.js",
+    "runtime-main.js.map": "https://mehmetduran932.github.io/csb-rujec/static/js/runtime-main.b96bd505.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://mehmetduran932.github.io/csb-rujec/static/css/2.cbedb215.chunk.css",
+    "static/js/2.cdd48e43.chunk.js": "https://mehmetduran932.github.io/csb-rujec/static/js/2.cdd48e43.chunk.js",
+    "static/js/2.cdd48e43.chunk.js.map": "https://mehmetduran932.github.io/csb-rujec/static/js/2.cdd48e43.chunk.js.map",
+    "index.html": "https://mehmetduran932.github.io/csb-rujec/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://mehmetduran932.github.io/csb-rujec/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mehmetduran932.github.io/csb-rujec/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.cdd48e43.chunk.js.LICENSE.txt": "https://mehmetduran932.github.io/csb-rujec/static/js/2.cdd48e43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b96bd505.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.cdd48e43.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0b3e1d87.chunk.js"
+  ]
+}
